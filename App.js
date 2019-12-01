@@ -16,7 +16,6 @@ import {
 
 import styles from './Style/App';
 
-const BoardView = require('./Components/BoardView');
 const TURN_TEXT = '▓';
 
 let order = [];
